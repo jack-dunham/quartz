@@ -3,7 +3,7 @@ aliases: [MPO]
 tags: [tensor-network/mpo]
 ---
 
-In analogy to that of the [matrix product state (MPS)]({{< relref "20220504125719-matrix_product_state.md" >}}) representation of quantum states, operators can also be written as products of matrices. Consider the operator $O$ given by
+In analogy to that of the [[matrix product state]] (MPS) representation of quantum states, operators can also be written as products of matrices. Consider the operator $O$ given by
 
 $$
     O = \sum_{\{s_i\}, \{s'_i\} } O^{s_1, \ldots, s_N}_{s'_1, \ldots, s'_N}\dyad{s'_1\cdots s'_N}{s_1,\cdots,s_N},

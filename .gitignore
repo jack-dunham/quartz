@@ -2,7 +2,9 @@
 public
 resources
 .idea
-content/.obsidian
+content/notes/.obsidian
+content/notes/.trash
+content/notes/*.sty
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
